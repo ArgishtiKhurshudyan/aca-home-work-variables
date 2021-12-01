@@ -19,7 +19,7 @@ let n = i ++ % 5; // Output  n = 0 ; i = 10;
 // let c = a;
 //  a = b;
 //  b = c 
-// alert.log('a = '+ a, 'b = ' + b) ;
+// console.log('a = '+ a, 'b = ' + b) ;
 
 //  swap two variables witout third one
 
@@ -29,6 +29,5 @@ let a = 10, b = 3;
 // b = a - b ;
 // a = a - b;
 a = (a * b) / (b = a);
-
 
 console.log('a = '+ a, 'b = ' + b) ;
